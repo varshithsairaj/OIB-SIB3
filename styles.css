@@ -1,0 +1,25 @@
+.tem {
+    border: 5px solid rgb(0, 0, 0);
+    margin: 10px auto;
+    padding: 70px;
+    border-radius: 50px;
+    background-color: rgb(234, 68, 7);
+    width: 260px;
+    
+    background-image: url('temp2.jpg');
+    background-size: cover; 
+    background-position: center; 
+}
+
+.bt {
+    background-color: rgb(255, 255, 255);
+    padding: 4px;
+    margin-left: 100px;
+    margin-top: 20px;
+}
+.tem h2{
+    font-weight: bold;
+}
+.tem p{
+    font-weight: bold;
+}
